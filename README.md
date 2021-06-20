@@ -26,7 +26,7 @@ DoaCentro, um webapp, surgiu com o objeto de ajudar pessoas carentes que não te
 
 #### Equipe:
 
-[David Barbosa](linkedin.com/in/david-barbosa-da-silva): Líder e backend;
+[David Barbosa](https://www.linkedin.com/in/david-barbosa-da-silva/): Líder e backend;
 
 [Karina Xavier](linkedin.com/in/karina-farias-816203171): Backend;
 
